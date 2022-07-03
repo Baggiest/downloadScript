@@ -75,8 +75,8 @@ index().then(async () => {
 
     for (z = 0; z < arr.length; z++) {
         //console.log(arr[z])
-        //console.log(`https://blahblah.io/blah/book/blahblah/Level%202%20Unit%20${arr[z].j}Track%20${arr[z].i}.mp3`) //simplified example
-        links.push(`https://----.---.io/Four_Corners/Four_Corners_2nd/FC2B/Four%20Corners%202%20-%20Audio/Level%202%20Unit%20${arr[z].j}%20Track%20${arr[z].i}.mp3`)
+        //console.log(`https://blahblah.ir/blah/book/blahblah/Level%202%20Unit%20${arr[z].j}Track%20${arr[z].i}.mp3`) //simplified example
+        links.push(`https://student.iedl.ir/Four_Corners/Four_Corners_2nd/FC2B/Four%20Corners%202%20-%20Audio/Level%202%20Unit%20${arr[z].j}%20Track%20${arr[z].i}.mp3`)
     }
 
     // now for the downloading part we use fs and download libraries
